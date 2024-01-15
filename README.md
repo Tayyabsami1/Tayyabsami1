@@ -1,4 +1,4 @@
-![logo](https://github.com/Tayyabsami1/Tayyabsami1/blob/main/Logo.png)
+![logo](https://github.com/Tayyabsami1/Tayyabsami1/blob/main/Banner.png)
 <h1 align="left">Hi 👋, I'm Tayyab Kamran Sami</h1>
 <h3 align="left">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
