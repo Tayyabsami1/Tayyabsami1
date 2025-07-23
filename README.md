@@ -15,7 +15,7 @@
 <h2 margin="30px">🌐 Frontend </h1>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,sass,tailwind" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,next,html,css,sass,tailwind" />
   </a>
 </p>
 
